@@ -1,6 +1,6 @@
 ---
 name: ch7-communication-sharing
-description: Chapter 7 · Communication & Sharing. Use to package analyses and decisions into persuasive written or spoken deliverables. Contains 4 frameworks: Product Proposal (PRD/one-pager), Event/Campaign Plan, PREP (Point-Reason-Example-Point), TAPS (Target-Actual-Problem-Solution). 关键词：product proposal, PRD, one pager, event plan, campaign plan, marketing event, PREP method, pyramid principle, concise speaking, elevator pitch, TAPS model, problem reporting, gap to solution, executive summary, 产品策划书, 活动策划, 汇报结构, 电梯演讲, 金字塔原理, 问题汇报, 一页纸提案。
+description: "Chapter 7 · Communication & Sharing. Use to package analyses and decisions into persuasive written or spoken deliverables. Contains 4 frameworks: Product Proposal (PRD/one-pager), Event/Campaign Plan, PREP (Point-Reason-Example-Point), TAPS (Target-Actual-Problem-Solution). 关键词：product proposal, PRD, one pager, event plan, campaign plan, marketing event, PREP method, pyramid principle, concise speaking, elevator pitch, TAPS model, problem reporting, gap to solution, executive summary, 产品策划书, 活动策划, 汇报结构, 电梯演讲, 金字塔原理, 问题汇报, 一页纸提案。"
 ---
 
 # 第 7 章 · 传达与共享（Communication & Sharing）

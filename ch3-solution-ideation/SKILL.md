@@ -1,6 +1,6 @@
 ---
 name: ch3-solution-ideation
-description: Chapter 3 · Solution Ideation. Use after the problem is clearly defined, to diverge creative options and pre-screen candidates. Contains 10 frameworks: Brainstorming, Mandala/Lotus Blossom, Morphological Analysis, Scenario Planning, Osborn Checklist (SCAMPER), Idea Sheet, Storyboard, Pros/Cons list, SUCCESs stickiness test, Payoff (Impact-Effort) matrix. 关键词：ideation, brainstorming, divergent thinking, creativity, mandala chart, lotus blossom, morphological analysis, scenario planning, Osborn checklist, SCAMPER, storyboard, pros and cons, SUCCESs made to stick, payoff matrix, impact effort, ICE scoring, 创意发散, 脑暴, 九宫格, 情景规划, 点子筛选, 快赢, 性价比。
+description: "Chapter 3 · Solution Ideation. Use after the problem is clearly defined, to diverge creative options and pre-screen candidates. Contains 10 frameworks: Brainstorming, Mandala/Lotus Blossom, Morphological Analysis, Scenario Planning, Osborn Checklist (SCAMPER), Idea Sheet, Storyboard, Pros/Cons list, SUCCESs stickiness test, Payoff (Impact-Effort) matrix. 关键词：ideation, brainstorming, divergent thinking, creativity, mandala chart, lotus blossom, morphological analysis, scenario planning, Osborn checklist, SCAMPER, storyboard, pros and cons, SUCCESs made to stick, payoff matrix, impact effort, ICE scoring, 创意发散, 脑暴, 九宫格, 情景规划, 点子筛选, 快赢, 性价比。"
 ---
 
 # 第 3 章 · 思索课题的解决方法（Solution Ideation）

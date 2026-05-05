@@ -1,6 +1,6 @@
 ---
 name: ch1-problem-discovery
-description: Chapter 1 · Problem Discovery. Use when the problem is vague, messy, or hard to start — to identify and precisely define the "real problem" behind complaints and symptoms. Contains 8 frameworks: As is/To be gap analysis, 6W2H scoping, Root Cause (5 Whys), Control/Uncontrol matrix, Logic Tree (MECE), Issue Setting Sheet, Eisenhower Urgent×Important matrix, Weighted Decision Matrix. 关键词：problem discovery, problem definition, issue framing, root cause, 5 whys, gap analysis, logic tree, MECE, Eisenhower matrix, decision matrix, 现状理想, 差距, 根因分析, 问题拆解, 课题设定, 优先级, 决策打分。
+description: 'Chapter 1 · Problem Discovery. Use when the problem is vague, messy, or hard to start — to identify and precisely define the "real problem" behind complaints and symptoms. Contains 8 frameworks: As is/To be gap analysis, 6W2H scoping, Root Cause (5 Whys), Control/Uncontrol matrix, Logic Tree (MECE), Issue Setting Sheet, Eisenhower Urgent×Important matrix, Weighted Decision Matrix. 关键词：problem discovery, problem definition, issue framing, root cause, 5 whys, gap analysis, logic tree, MECE, Eisenhower matrix, decision matrix, 现状理想, 差距, 根因分析, 问题拆解, 课题设定, 优先级, 决策打分。'
 ---
 
 # 第 1 章 · 发现问题、课题（Problem Discovery）

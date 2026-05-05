@@ -1,6 +1,6 @@
 ---
 name: ch2-market-analysis
-description: Chapter 2 · Market Analysis. Use to understand external environment, industry landscape, competitive dynamics, customer psychology and value chain. Contains 13 frameworks: PEST, Porter's Five Forces, VRIO, SWOT, Pareto (80/20), RFM segmentation, Persona, Empathy Map, Customer Journey Map, 4P marketing mix, 4P+ (target×offering), Value Chain, Core Competence. 关键词：market analysis, macro environment, PESTEL, Porter five forces, SWOT, VRIO, Pareto 80/20, RFM, customer segmentation, buyer persona, empathy map, customer journey, touchpoints, 4P marketing mix, value chain, core competence, 市场研究, 行业分析, 竞争分析, 用户画像, 转化旅程, 价值链, 竞争优势。
+description: "Chapter 2 · Market Analysis. Use to understand external environment, industry landscape, competitive dynamics, customer psychology and value chain. Contains 13 frameworks: PEST, Porter's Five Forces, VRIO, SWOT, Pareto (80/20), RFM segmentation, Persona, Empathy Map, Customer Journey Map, 4P marketing mix, 4P+ (target×offering), Value Chain, Core Competence. 关键词：market analysis, macro environment, PESTEL, Porter five forces, SWOT, VRIO, Pareto 80/20, RFM, customer segmentation, buyer persona, empathy map, customer journey, touchpoints, 4P marketing mix, value chain, core competence, 市场研究, 行业分析, 竞争分析, 用户画像, 转化旅程, 价值链, 竞争优势。"
 ---
 
 # 第 2 章 · 分析市场（Market Analysis）

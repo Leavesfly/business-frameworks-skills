@@ -1,6 +1,6 @@
 ---
 name: ch5-business-improvement
-description: Chapter 5 · Business Improvement. Use during execution to streamline processes, boost efficiency, enforce quality, and run retrospectives. Contains 10 frameworks: KPT retro, YWT retro, PDCA cycle, Business Inventory, BPMN Flowchart (swimlane), PERT/CPM, RACI matrix, Muda/Mura/Muri (lean 3M), ECRS, Kaizen Improvement Proposal. 关键词：business improvement, kaizen, lean manufacturing, muda mura muri, 7 wastes, KPT retrospective, YWT, PDCA Deming cycle, business inventory, work audit, BPMN flowchart, swimlane, PERT chart, critical path, RACI matrix, responsibility assignment, ECRS, improvement proposal, 精益, 改善, 流程优化, 复盘, 职责分工, 浪费识别, 关键路径。
+description: "Chapter 5 · Business Improvement. Use during execution to streamline processes, boost efficiency, enforce quality, and run retrospectives. Contains 10 frameworks: KPT retro, YWT retro, PDCA cycle, Business Inventory, BPMN Flowchart (swimlane), PERT/CPM, RACI matrix, Muda/Mura/Muri (lean 3M), ECRS, Kaizen Improvement Proposal. 关键词：business improvement, kaizen, lean manufacturing, muda mura muri, 7 wastes, KPT retrospective, YWT, PDCA Deming cycle, business inventory, work audit, BPMN flowchart, swimlane, PERT chart, critical path, RACI matrix, responsibility assignment, ECRS, improvement proposal, 精益, 改善, 流程优化, 复盘, 职责分工, 浪费识别, 关键路径。"
 ---
 
 # 第 5 章 · 改善业务（Business Improvement）

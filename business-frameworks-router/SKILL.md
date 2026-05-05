@@ -1,6 +1,6 @@
 ---
 name: business-frameworks-router
-description: Business & management problem router over 70+ thinking frameworks from the MAP book. Auto-triages any request involving problem discovery, market analysis, ideation, strategy, business improvement, team management, or reporting, and orchestrates 1-3 frameworks into a structured answer. Use proactively when the user mentions business frameworks, consulting-style analysis, SWOT/PEST/STP/BMC/OKR/KPI/RACI/PDCA/GROW, or asks "how should I analyze / plan / improve / pitch X". 关键词：business framework, problem solving, strategy planning, market analysis, brainstorming, process improvement, team management, presentation, consulting toolkit, 商业框架, 思维模型, 问题解决, 分析方法, 策略规划, 管理工具, 汇报模板, 咨询工具箱。
+description: 'Business & management problem router over 70+ thinking frameworks from the MAP book. Auto-triages any request involving problem discovery, market analysis, ideation, strategy, business improvement, team management, or reporting, and orchestrates 1-3 frameworks into a structured answer. Use proactively when the user mentions business frameworks, consulting-style analysis, SWOT/PEST/STP/BMC/OKR/KPI/RACI/PDCA/GROW, or asks "how should I analyze / plan / improve / pitch X". 关键词：business framework, problem solving, strategy planning, market analysis, brainstorming, process improvement, team management, presentation, consulting toolkit, 商业框架, 思维模型, 问题解决, 分析方法, 策略规划, 管理工具, 汇报模板, 咨询工具箱。'
 ---
 
 # 商业框架路由器 · business-frameworks-router
