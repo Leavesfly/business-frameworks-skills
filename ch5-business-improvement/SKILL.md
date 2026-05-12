@@ -207,3 +207,5 @@ description: "Chapter 5 · Business Improvement. Use during execution to streaml
 ## 扩展资源
 
 - **改善样例**（售后退款流程案例，涵盖 PDCA / RACI / Muda-TIMWOOD / ECRS / KPT / YWT / PERT）：见 [references/examples.md](references/examples.md)
+- **复盘会主持指南**（KPT/YWT/PDCA 完整流程、反模式纠正、远程团队技巧）：见 [references/retrospective-guide.md](references/retrospective-guide.md)
+- **流程优化实战手册**（泳道图/ECRS/精益3M/PERT 案例与度量指标）：见 [references/process-optimization-playbook.md](references/process-optimization-playbook.md)

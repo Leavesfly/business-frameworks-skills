@@ -195,3 +195,5 @@ description: "Chapter 2 · Market Analysis. Use to understand external environme
 ## 扩展资源
 
 - **合格填写样例**（国产咖啡下沉市场案例，涵盖 PEST/五力/VRIO/SWOT/Persona/旅程图）：见 [references/examples.md](references/examples.md)
+- **用户洞察工具箱**（Persona/同理心地图/客户体验旅程图完整案例 + 15个万能访谈问题）：见 [references/customer-insight-toolkit.md](references/customer-insight-toolkit.md)
+- **竞争分析模板集**（PEST/五力/VRIO完整案例 + 竞品对比表模板 + 情报收集渠道清单）：见 [references/competitive-analysis-templates.md](references/competitive-analysis-templates.md)

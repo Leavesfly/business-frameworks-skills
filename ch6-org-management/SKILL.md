@@ -235,3 +235,5 @@ description: "Chapter 6 · Organization Management. Use to align direction, moti
 ## 扩展资源
 
 - **GROW 完整辅导对话**（3 种情境：绩效辅导 / 高能力低意愿 / 困境支持 + 万能提问库）：见 [references/grow-dialogue.md](references/grow-dialogue.md)
+- **激励与团队诊断工具箱**（Will/Skill、双因素理论、Will/Can/Must、PM 理论、周哈里窗实战案例）：见 [references/motivation-toolkit.md](references/motivation-toolkit.md)
+- **干系人管理实战指南**（利害关系人分析、Want/Commitment、OODA、Need/Want 矩阵及难搞干系人应对策略）：见 [references/stakeholder-management-guide.md](references/stakeholder-management-guide.md)

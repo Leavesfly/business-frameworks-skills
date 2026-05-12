@@ -150,3 +150,5 @@ description: "Chapter 7 · Communication & Sharing. Use to package analyses and 
 ## 扩展资源
 
 - **沟通模板库**（产品策划书 11 节模板 / 活动策划书模板 / PREP / TAPS 实战样例）：见 [references/templates.md](references/templates.md)
+- **PREP / TAPS 实战文案集**（6个完整案例 + 选择指南 + 常见错误修正）：见 [references/prep-taps-examples.md](references/prep-taps-examples.md)
+- **一页纸提案画廊**（3个完整范例 + 排版法则 + 自检清单 + 反面案例）：见 [references/one-pager-gallery.md](references/one-pager-gallery.md)

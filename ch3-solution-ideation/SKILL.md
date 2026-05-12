@@ -227,3 +227,5 @@ description: "Chapter 3 · Solution Ideation. Use after the problem is clearly d
 ## 扩展资源
 
 - **头脑风暴主持手册**（90 分钟流程、破冰题库、SCAMPER 提示卡、反模式）：见 [references/brainstorm-guide.md](references/brainstorm-guide.md)
+- **SCAMPER 创意改造实战案例集**（奥斯本核验表详解、曼陀罗九宫格展开案例、形态分析法组合方案、创意热身练习）：见 [references/scamper-examples.md](references/scamper-examples.md)
+- **创意筛选与评估指南**（报酬矩阵案例、SUCCESs 黏性测试、创意单标准化、ICE 评分法、筛选会议流程）：见 [references/idea-screening-guide.md](references/idea-screening-guide.md)

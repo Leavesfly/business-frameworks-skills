@@ -163,3 +163,5 @@ description: 'Chapter 1 · Problem Discovery. Use when the problem is vague, mes
 ## 扩展资源
 
 - **合格填写样例**（SaaS 续约率下降案例，涵盖 As-is/To-be、5 Whys、Logic Tree 等）：见 [references/examples.md](references/examples.md)
+- **逻辑树拆解模式库**（What/Why/How 三种树的详细案例与 MECE 自检）：见 [references/logic-tree-patterns.md](references/logic-tree-patterns.md)
+- **优先级排序实战指南**（艾森豪威尔矩阵与决策矩阵的完整案例）：见 [references/prioritization-guide.md](references/prioritization-guide.md)

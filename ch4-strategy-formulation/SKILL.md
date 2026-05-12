@@ -263,3 +263,5 @@ description: "Chapter 4 · Strategy Formulation. Use to converge creative option
 ## 扩展资源
 
 - **BMC 行业样例**（SaaS / 餐饮连锁 / 双边平台 三个完整填写范例 + 九格自检清单）：见 [references/bmc-examples.md](references/bmc-examples.md)
+- **增长策略实战案例**（安索夫矩阵、BCG矩阵、AARRR海盗指标、KPI树拆解、SMART目标改写）：见 [references/growth-strategy-examples.md](references/growth-strategy-examples.md)
+- **STP定位与定位图案例**（STP完整案例、定位图分析、TOWS交叉SWOT、定位陈述公式）：见 [references/stp-positioning-examples.md](references/stp-positioning-examples.md)

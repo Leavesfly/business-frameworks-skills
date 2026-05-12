@@ -152,3 +152,4 @@ description: 'Business & management problem router over 70+ thinking frameworks 
 ## 扩展资源
 
 - **30+ 场景组合库**（跨章节套餐推荐）：见 [references/recipes.md](references/recipes.md)
+- **框架选型速查指南**（按问题类型/输出物/角色快速检索）：见 [references/framework-selection-guide.md](references/framework-selection-guide.md)
